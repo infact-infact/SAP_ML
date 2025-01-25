@@ -71,8 +71,6 @@ Food Product Analysis is a web-based application built with Streamlit that helps
 ## Acknowledgments
 - Thanks to the open-source community for providing the tools and libraries used in this project.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or feedback, feel free to reach out:
